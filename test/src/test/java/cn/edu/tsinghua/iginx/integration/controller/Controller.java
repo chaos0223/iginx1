@@ -405,5 +405,6 @@ public class Controller {
         TEST_TASK_FILE);
     // run the test together
     shellRunner.runShellCommand(MVN_RUN_TEST);
+    
   }
 }
